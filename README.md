@@ -1,4 +1,4 @@
-# Simple Website Template 
+# Simple Website Template [![Build Status](https://travis-ci.com/artemtam/helptofree.org.svg?token=ckp3nHysZza2y7rGcHP3&branch=master)](https://travis-ci.com/artemtam/helptofree.org)
 
 Modern static website or landing page template, which provides ready to use configuration supporting mification, transpiling, SASS/SCSS and other essential features that makes your project perfect.
 
@@ -17,7 +17,7 @@ In order to make the process way faster, I decided to create this template with 
 - [x] Minifying HTML
 - [x] Automatic deployment to Github Pages with Travis CI
 - [x] Stylelint to write consistent styles
-- [x] ESLint/Stylelint set up 
+- [x] ESLint with Airbnb code style rules 
 - [ ] Minifying SVGs with SVGO
 
 ### Usage

@@ -25,7 +25,7 @@ module.exports = {
     new CleanWebpackPlugin(),
     new CopyWebpackPlugin([
       {
-        from: './static/*',
+        from: './static/**',
         to: ''
       }
     ]),
