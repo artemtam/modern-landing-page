@@ -15,8 +15,10 @@ In order to make the process way faster, I decided to create this template with 
 - [x] Autoprefixing and minifying CSS
 - [x] Uglifying and transpiling JavaScript
 - [x] Minifying HTML
+- [x] Automatic deployment to Github Pages with Travis CI
+- [x] Stylelint to write consistent styles
+- [x] ESLint/Stylelint set up 
 - [ ] Minifying SVGs with SVGO
-- [ ] ESLint/Stylelint set up 
 
 ### Usage
 
