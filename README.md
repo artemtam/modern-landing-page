@@ -1,4 +1,4 @@
-# Simple Website Template [![Build Status](https://travis-ci.com/artemtam/helptofree.org.svg?token=ckp3nHysZza2y7rGcHP3&branch=master)](https://travis-ci.com/artemtam/helptofree.org)
+# Simple Website Template [![Build Status](https://travis-ci.org/artemtam/modern-landing-page.svg?branch=master)](https://travis-ci.org/artemtam/modern-landing-page)
 
 Modern static website or landing page template, which provides ready to use configuration supporting mification, transpiling, SASS/SCSS and other essential features that makes your project perfect.
 
